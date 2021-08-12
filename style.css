@@ -1,0 +1,28 @@
+html
+  background #0
+  overflow hidden
+body
+  margin 0
+canvas
+  vertical-align top
+details
+  font-size 0.5em
+  background-color #111
+  color #fff
+  position absolute
+  bottom 0
+.ctrl
+  width 50vw
+  input[type="range"]
+    width 100%
+button
+  background-color #444
+  color #fff  
+  border none
+  padding .3em
+  margin .1em
+  border-radius .3em
+  
+summary
+  cursor default
+  font-size 2em
